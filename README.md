@@ -6,9 +6,9 @@
 ##### Option 1: 
 Have the script in your working directory and import JFutils
 ##### Option 2:
-Add the script to your pythonpath
-PYTHONPATH="${PYTHONPATH}:<path/to>/JFutils/"
-export PYTHONPATH
+Add the script to your pythonpath<br />
+PYTHONPATH="${PYTHONPATH}:<path/to>/JFutils/"<br />
+export PYTHONPATH<br />
 
 Note: add this to your bashrc to have it permanantly
 
