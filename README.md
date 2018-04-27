@@ -1,6 +1,6 @@
 # JFutils
 
-### requirements: python3 
+### Requirements: python3 
 
 ### How to use the modules:
 ##### Option 1: 
